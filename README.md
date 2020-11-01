@@ -1,5 +1,6 @@
 # Desafio-1-PUC2020
 Ei, primeiramente boa sorte, vamos começar com algo simples ein, se prepara!
+Vale lembrar que o exercício foi feito pela plataforma URI, obviamente você encontrará soluções por aí, mas também iremos perceber a cola, ou seja, não cole!
 
 # Questão:
 
