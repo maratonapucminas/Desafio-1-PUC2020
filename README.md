@@ -1,6 +1,10 @@
 # Desafio-1-PUC2020
-Ei, primeiramente boa sorte, vamos começar com algo simples ein, se prepara!
+Ei, primeiramente boa sorte, vamos começar com algo simples ein, se prepara!  
+
 Vale lembrar que o exercício foi feito pela plataforma URI, obviamente você encontrará soluções por aí, mas também iremos perceber a cola, ou seja, não cole!
+
+De resto, contamos com você jovem gafanhoto!
+https://media.giphy.com/media/W23aKzDl1OFRAcki9z/giphy.gif
 
 # Questão:
 
