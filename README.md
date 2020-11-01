@@ -15,8 +15,10 @@ Exemplo de entrada: 576.73
 
 Exemplo de saída:
 NOTAS:
-5 nota(s) de R$ 100.00
-1 nota(s) de R$ 50.00
+5 nota(s) de R$ 100.00  
+
+1 nota(s) de R$ 50.00  
+
 1 nota(s) de R$ 20.00
 0 nota(s) de R$ 10.00
 1 nota(s) de R$ 5.00
