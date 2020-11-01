@@ -29,7 +29,7 @@ Exemplo de **saída:**
 
 0 nota(s) de R$ 2.00  
 
-MOEDAS:  
+**MOEDAS:**
 
 1 moeda(s) de R$ 1.00  
 
