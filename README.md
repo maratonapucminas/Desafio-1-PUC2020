@@ -11,10 +11,11 @@ O arquivo de entrada contém um valor de ponto flutuante N (0 ≤ N ≤ 1000000.
 # Saída
 Imprima a quantidade mínima de notas e moedas necessárias para trocar o valor inicial, conforme exemplo fornecido.
 
-Exemplo de entrada: 576.73
+Exemplo de **entrada:** 576.73
 
-Exemplo de saída:
-NOTAS:  
+Exemplo de **saída:**  
+
+**NOTAS:**  
 
 5 nota(s) de R$ 100.00  
 
